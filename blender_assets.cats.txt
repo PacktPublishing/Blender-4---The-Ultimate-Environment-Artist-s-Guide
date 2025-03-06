@@ -1,0 +1,26 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+2aa32f04-5b90-4746-8012-5022b4c02405:Geometry Nodes:Geometry Nodes
+0ded06a3-4b09-4c3b-868c-f56edc900df7:Human:Human
+bff6c071-aeb3-4da7-9b33-b9e8b216cf29:Materials:Materials
+a2748518-8e4c-4094-85b2-e33ed00b45b2:Materials/Backdrop:Materials-Backdrop
+2f7090d0-14b5-40db-a84f-f3ca16ab4bb4:Materials/Clay:Materials-Clay
+fb5aa1ee-7807-47eb-8989-16aec3577075:Materials/Cloth:Materials-Cloth
+3430f8ba-7078-47c0-922d-63b60b91ba4e:Materials/Curtains:Materials-Curtains
+1c856bc6-06a4-484a-8af9-24d4e46597ef:Materials/Floor:Materials-Floor
+84c15fd9-36e2-42cc-9022-7d1cfa142948:Materials/Glass:Materials-Glass
+2ddc76d9-7dc8-41d7-98d4-bbf11436edf6:Materials/Metal:Materials-Metal
+5e4c311d-4dc6-455f-992a-abc5c334754f:Materials/Posters:Materials-Posters
+649ec79f-d383-4402-a0b4-ede9f45963f1:Materials/Roof:Materials-Roof
+f73b3b6f-703c-41f4-bc83-57ed7dad2fce:Materials/Signs:Materials-Signs
+5d860890-a02d-46ad-9176-cea2183d0fd6:Materials/Stone:Materials-Stone
+614f603e-dec4-46f8-a463-9f4874e3f9b5:Materials/Truck:Materials-Truck
+fce368a0-9b46-44f9-a183-d30c9c69c743:Materials/Walls:Materials-Walls
+40653519-762e-4cd0-bdf2-ebd88e17a350:Materials/Wood:Materials-Wood
+aeaab105-3f51-4780-b43b-c9111b23bfee:Tree:Tree
